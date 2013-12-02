@@ -42,6 +42,7 @@
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+
 <script type="text/javascript">tmp_uri = "<?php echo get_template_directory_uri(); ?>";</script>
 
 <!--[if lt IE 9]>

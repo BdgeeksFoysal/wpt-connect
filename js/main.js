@@ -408,7 +408,6 @@ jQuery("document").ready(function($){
 				console.log(msg.status);
 				contact_form.slideUp().next().delay(800).fadeIn("slow");
 			}, "json");
-			//console.log(contact_form_data);
 		}
 	});
 });
